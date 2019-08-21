@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11762" started-at="2019-08-21T13:21:35Z" finished-at="2019-08-21T13:21:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11762" started-at="2019-08-21T13:21:35Z" finished-at="2019-08-21T13:21:46Z">
+      <class name="jenkins.Jenkinstest">
+        <test-method status="PASS" signature="driverinitialize()[pri:0, instance:jenkins.Jenkinstest@5cc7c2a6]" name="driverinitialize" is-config="true" duration-ms="6077" started-at="2019-08-21T13:21:35Z" finished-at="2019-08-21T13:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverinitialize -->
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:jenkins.Jenkinstest@5cc7c2a6]" name="launchurl" duration-ms="3353" started-at="2019-08-21T13:21:41Z" finished-at="2019-08-21T13:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="driverclose()[pri:0, instance:jenkins.Jenkinstest@5cc7c2a6]" name="driverclose" is-config="true" duration-ms="2317" started-at="2019-08-21T13:21:44Z" finished-at="2019-08-21T13:21:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- jenkins.Jenkinstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
